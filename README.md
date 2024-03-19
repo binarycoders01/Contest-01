@@ -1,6 +1,8 @@
 # Contest-01
 ## Contest Problems
 
+Note- Go through this link and i have updated about how you can post your responses ( https://github.com/Varun-1703/Discussion/discussions/1 ) 
+
 ### Problem 1
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
